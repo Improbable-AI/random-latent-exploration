@@ -1,0 +1,4 @@
+matplotlib
+seaborn
+envpool
+numpy<1.24
